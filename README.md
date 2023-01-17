@@ -9,4 +9,4 @@ A simple currency calculator.
 - JavaScript
 - BEM convention
 
-##Demo https://karolrybinski.github.io/currency-converter/
+## Demo https://karolrybinski.github.io/currency-converter/
