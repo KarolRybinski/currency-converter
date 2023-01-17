@@ -8,3 +8,5 @@ A simple currency calculator.
 - CSS
 - JavaScript
 - BEM convention
+
+##Demo https://karolrybinski.github.io/currency-converter/
